@@ -1,0 +1,15 @@
+.sliderImage1 {
+    height: 240px;
+}
+
+.sliderImage2 {
+    width: 362px;
+    height: 208px;
+}
+
+.sliderInfo {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    margin-top: 8px;
+}

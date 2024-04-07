@@ -1,0 +1,26 @@
+.dateWrapper {
+    display: grid;
+    grid-template-columns: 205px 205px 205px 205px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.dateBox {
+    width: 170px;
+    height: 40px;
+    background-color: #f2f2f2;
+    border-radius: 3px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.dateBox span {
+    font-size: 14px;
+}
+
+.dateBox h3 {
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 500px;
+}

@@ -1,0 +1,55 @@
+.header {
+    display: flex;
+    flex-direction: column;
+}
+
+.headerContainer1 {
+    width: 100%;
+    background: rgba(201, 15, 93, 1);
+    display: flex;
+    justify-content: center;
+}
+
+.headerTop {
+    width: 1170px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+.headerTop div {
+    display: flex;
+    align-items: center;
+}
+
+.headerContainer2 {
+    width: 100%;
+    background: rgba(3, 25, 47, 1);
+    display: flex;
+    justify-content: center;
+}
+.headerBot {
+    width: 1170px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.city {
+    padding: 5px 10px;
+    border: none;
+    margin-right: 10px;
+}
+
+.language {
+    padding: 5px 10px;
+    border: none;
+    margin-right: 10px;
+}
+
+.profile2 {
+    width: 25px;
+    height: 25px;
+    margin-top: 2px;
+}

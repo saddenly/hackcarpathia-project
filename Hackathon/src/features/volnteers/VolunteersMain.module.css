@@ -1,0 +1,62 @@
+.wrapper {
+    width: 1170px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title {
+    margin-top: 50px;
+    font-size: 60px;
+}
+
+.kalendarDay {
+    font-weight: 800;
+}
+
+.kalendarFiltering ul {
+    display: flex;
+}
+
+.kalendarFiltering li {
+    width: 10%;
+    height: 3em;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 10px;
+    transition: 0.3s;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.kalendarFiltering li:hover {
+    background-color: rgba(201, 15, 93, 1);
+}
+
+.volunterInfo {
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.volunterInfo1 {
+    width: 100px;
+    height: 100px;
+
+    margin-right: 50px;
+}
+
+.volunterInfo2 {
+    width: 500px;
+    height: 100px;
+}
+
+.namePerson {
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 10px;
+}

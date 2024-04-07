@@ -1,0 +1,42 @@
+.container {
+    width: 450px;
+}
+
+.map1 {
+    width: 400px;
+    height: 300px;
+}
+
+.map {
+    height: 100%;
+}
+
+.categories {
+    margin-top: 30px;
+}
+
+.categories {
+    width: 400px;
+}
+
+.categories div {
+    font-size: 35px;
+}
+
+.categories li {
+    list-style-type: disc;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.categories button {
+    background-color: grey;
+    border: none;
+    cursor: pointer;
+    width: 200px;
+    height: 30px;
+}
+
+.priceSlider {
+    width: 400px;
+}

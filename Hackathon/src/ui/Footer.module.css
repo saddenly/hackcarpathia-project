@@ -1,0 +1,33 @@
+.container {
+    margin-top: 90px;
+    width: 100%;
+    height: 100px;
+    background: rgba(201, 15, 93, 1);
+    display: flex;
+    justify-content: center;
+}
+.coopyrigth {
+    color: white;
+    opacity: 40%;
+}
+
+.wrapper {
+    width: 1170px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.telegram,
+.facebook,
+.instagram {
+    width: 30px;
+    height: 30px;
+    color: white;
+    margin-right: 20px;
+}
+
+.contactUs {
+    color: white;
+    font-size: 15px;
+}

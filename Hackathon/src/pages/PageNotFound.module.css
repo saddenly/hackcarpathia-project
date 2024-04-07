@@ -1,0 +1,33 @@
+.middleNotFound {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.middleNotFound div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.middleNotFound h1 {
+    font-size: 150px;
+}
+
+.middleNotFound span {
+    font-size: 30px;
+}
+
+.middleNotFound button {
+    background-color: #7986cb; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+}

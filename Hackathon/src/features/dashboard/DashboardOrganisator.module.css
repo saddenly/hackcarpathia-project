@@ -1,0 +1,52 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.organisator {
+    width: 320px;
+    height: 420px;
+    background: rgba(201, 15, 93, 1);
+    padding: 30px;
+    margin-right: 60px;
+}
+.volunteerTitle,
+.organisatorTitle {
+    font-size: 38px;
+    color: white;
+    font-weight: 200;
+}
+
+.volunteer {
+    width: 320px;
+    height: 420px;
+    padding: 30px;
+    background: rgba(201, 15, 93, 1);
+}
+
+.volunteer ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.organisator ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+.volunteer li {
+    color: White;
+    width: 200px;
+    list-style-type: disc;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.organisator li {
+    color: White;
+    width: 200px;
+    list-style-type: disc;
+    font-size: 18px;
+    margin-top: 20px;
+}
